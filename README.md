@@ -21,7 +21,8 @@
 
 ### :hammer_and_wrench: Навыки :
 <div>
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
 <!--
 **Pstepanova21/Pstepanova21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
