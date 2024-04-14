@@ -1,18 +1,15 @@
 
 <h2>
-  Hi there
+  Привет, я Полина!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-### :woman_technologist: About Me :
- Меня зовут Полина и я Frontend-разработчик.
- - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:Как со мной сязаться: stepanovap7741@gmail.com
+### :woman_technologist: Обо мне :
+Меня зовут Полина, и я фронтенд разработчица
+- 🎨 Стремлюсь к созданию удобных и привлекательных пользовательских интерфейсов
+- 🚀 Увлечена технологиями веб-разработки и всегда готова изучать новое
+- 🌱 В постоянном процессе обучения и роста
+- 📫 Как со мной сязаться: [Email] stepanovap7741@gmail.com
 <!--
 **Pstepanova21/Pstepanova21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
