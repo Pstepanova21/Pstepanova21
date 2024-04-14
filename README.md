@@ -16,6 +16,10 @@
 
 ### 📫 Как со мной сязаться: 
 - stepanovap7741@gmail.com
+
+---
+
+### :hammer_and_wrench: Навыки :
 <!--
 **Pstepanova21/Pstepanova21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
