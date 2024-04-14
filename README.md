@@ -5,14 +5,14 @@
 </h2>
 
 ### :woman_technologist: About Me :
- Меня зовут Полина и я Frontend-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+ Меня зовут Полина и я Frontend-разработчик.
  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![mail Badge]stepanovap7741@gmail.com
+- :mailbox:Как со мной сязаться: stepanovap7741@gmail.com
 <!--
 **Pstepanova21/Pstepanova21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
