@@ -31,6 +31,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="Mysql" width="40" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" title="Node.js" width="40" height="40" />
 
+---
+
+### :fire: Моя статистика :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pstepanova21&theme=dark&background=000000)](https://git.io/streak-stats)
       
       
           
